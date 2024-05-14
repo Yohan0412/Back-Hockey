@@ -12,12 +12,124 @@ export class AppService {
       code: 'TOR',
     },
     {
-      city: 'WASHINGTON',
+      city: 'Washighton',
       code: 'WSH',
     },
     {
-      city: 'DALLAS',
+      city: 'Dallas',
       code: 'DAL',
+    },
+    {
+      city: 'Montreal',
+      code: 'MTL',
+    },
+    {
+      city: 'New York Rangers',
+      code: 'NYR',
+    },
+    {
+      city: 'New York Islander',
+      code: 'NYI',
+    },
+    {
+      city: 'Tampa Bay',
+      code: 'TBL',
+    },
+    {
+      city: 'Nashville',
+      code: 'NSH',
+    },
+    {
+      city: 'Caroline',
+      code: 'CAR',
+    },
+    {
+      city: 'Floride',
+      code: 'FLA',
+    },
+    {
+      city: 'Vancouver',
+      code: 'VAN',
+    },
+    {
+      city: 'Boston',
+      code: 'BOS',
+    },
+    {
+      city: 'Colorado',
+      code: 'COL',
+    },
+    {
+      city: 'Las Vegas',
+      code: 'VGK',
+    },
+    {
+      city: 'Los Angeles',
+      code: 'LAK',
+    },
+    {
+      city: 'Détroit',
+      code: 'DET',
+    },
+    {
+      city: 'Chicago',
+      code: 'CHI',
+    },
+    {
+      city: 'Anaheim',
+      code: 'ANA',
+    },
+    {
+      city: 'San José',
+      code: 'SJS',
+    },
+    {
+      city: 'Winnipeg',
+      code: 'WPG',
+    },
+    {
+      city: 'Arizona',
+      code: 'ARI',
+    },
+    {
+      city: 'Buffalo',
+      code: 'BUF',
+    },
+    {
+      city: 'Minnesota',
+      code: 'MIN',
+    },
+    {
+      city: 'New Jersey',
+      code: 'NJD',
+    },
+    {
+      city: 'Seattle',
+      code: 'SEA',
+    },
+    {
+      city: 'COLOMBUS',
+      code: 'CBJ',
+    },
+    {
+      city: 'Pittsburg',
+      code: 'PIT',
+    },
+    {
+      city: 'St Louis',
+      code: 'STL',
+    },
+    {
+      city: 'Ottawa',
+      code: 'OTT',
+    },
+    {
+      city: 'Calgary',
+      code: 'CGY',
+    },
+    {
+      city: 'Philadelphie',
+      code: 'PHI',
     },
   ];
 
