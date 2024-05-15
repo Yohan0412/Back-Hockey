@@ -8,7 +8,7 @@ export class AppService {
 
   private cities = [
     {
-      city: 'TORONTO',
+      city: 'Toronto',
       code: 'TOR',
     },
     {
